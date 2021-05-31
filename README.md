@@ -7,3 +7,5 @@ The ultimate goal of the webscraping was two fold:
 
 1) Do an exploratory data analysis to see what we can learn about the data by building a DataFrame
 2) Use the data to give us an edge when it comes to selecting problems on the website
+
+You yourself can also use the data to get an edge when choosing katas by accessing this streamlit web application (NOTE: ignore the error messages that pop up on application start): https://kata-selector.herokuapp.com/
